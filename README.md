@@ -39,3 +39,32 @@ GPS의 값을 그냥 받게되면,
 
 
 ![image](https://user-images.githubusercontent.com/62790857/147813810-e5f4916f-100a-40fc-8fce-afc55b4ec06a.png)
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/62790857/147814495-079a2252-afab-4145-83eb-077322436e04.png)
+이 코드는 nRF24L01 (로라모듈)의 수신기를 설정하는 코드입니다.
+이 코드를 이용해 송신기로부터 받아오는 값을 수신할 수 있게 됩니다.
+
+
+
+
+![image](https://user-images.githubusercontent.com/62790857/147814505-f033007f-dd30-4ea4-85b3-be15921da945.png)
+
+
+이 코드는 nRF24L01 (로라모듈)의 송신기를 설정하는 코드입니다.
+이 코드를 이용해 받아오는 값을 수신기로 송신할 수 있게 됩니다.
+
+
+![image](https://user-images.githubusercontent.com/62790857/147814517-f283276d-37d6-42dc-876a-8b54fcebad3b.png)
+
+
+위 코드는 카메라 모듈이 정상적으로 작동하기 위한 카메라 + 와이파이 + 웹 스트리밍 
+세 가지를 실행시키기 위한 코드입니다.
+
